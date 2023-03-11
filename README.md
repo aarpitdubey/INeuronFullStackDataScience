@@ -1,1 +1,1 @@
-# full_stack_data_science
+# full_stack_data_sciences
